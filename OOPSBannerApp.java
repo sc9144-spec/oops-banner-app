@@ -3,7 +3,7 @@
  *
  * UC1: Prints the word "OOPS" to the console.
  *
- * @author Hemanth
+ * @author srivathsa
  * @version 1.0
  */
 public class OOPSBannerApp {
